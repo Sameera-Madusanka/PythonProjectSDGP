@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+}
+
+footer {
+    background: black;
+    height: auto;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 20px;
+    color: white;
+}
+
+.footer_content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer_content h3 {
+    padding-bottom: 40px;
+    height: 12px;
+    font-size: 25px;
+}
+
+.footer-bottom {
+    background: black;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-bottom p {
+    font-size: 12px;
+    word-spacing: 2px;
+}

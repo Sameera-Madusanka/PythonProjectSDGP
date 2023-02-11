@@ -10,10 +10,11 @@ html {
   }
 
 .hero{
-    height: 100vh;
+    height: 10vh;
     width: 100%;
     background-size: cover;
     background-position: center;
+    padding-bottom: 10%;;
 }
 
 nav{
@@ -23,6 +24,7 @@ nav{
     padding-top: 40px;
     padding-left: 10%;
     padding-right: 10%;
+
 }
 
 .logo{
@@ -129,3 +131,49 @@ button:hover{
     height: auto;
     max-height: 650px;
   }
+
+  
+/*Srendib Tours Description*/
+.row {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  background: #C4C4C4;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.column_1, .column_2 {
+  overflow: hidden;
+  backdrop-filter: blur(1px);
+}
+
+.column_1 {
+  padding: 2% 3% 2%;
+}
+
+.column_1 h1 {
+  font-size: 50px;
+  color: black;
+}
+
+.column_1 h2 {
+color: black;
+line-height: 1.6;
+margin: 15px 0 30px;   
+}
+
+.column_1 p {
+  color: black;
+  line-height: 1.6;
+  margin: 15px 0 30px;
+  font-size: 18px;
+}
+
+.column_2{
+  width: 100%;
+  position: relative;
+  top: 75px;
+  right: 20px;
+  padding: 2% 2% 2%;
+}
