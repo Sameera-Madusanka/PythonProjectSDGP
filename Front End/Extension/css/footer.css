@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+   
 body {
     background: white;
 }
@@ -42,3 +42,4 @@ footer {
     font-size: 12px;
     word-spacing: 2px;
 }
+

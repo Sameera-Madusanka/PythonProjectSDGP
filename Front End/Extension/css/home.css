@@ -1,3 +1,5 @@
+Home
+
 * {
   padding: 0;
   margin: 0;
@@ -14,7 +16,7 @@ html {
   width: 100%;
   background-size: cover;
   background-position: center;
-  padding-bottom: 8%;
+  padding: 1% 0 6%;
   
 }
 
@@ -90,10 +92,11 @@ button:hover {
 }
 
 .slides {
-  width: 100%;
+  max-width: 65%;
   height: 20%;
   margin: auto;
   display: flex;
+  background-color: red;
 }
 
 /*Srendib Tours Description*/
@@ -148,15 +151,15 @@ button:hover {
 .column_1 {
   width: 65%;
   height: 100%;
-  padding: 2% 2% 2%;
-  /* background: #C4C4C4; */
+  padding: 1% 2% 2%;
+  background: #C4C4C4;
 }
 
 .column_2 {
   width: 35%;
   position: relative;
   /* background-color: grey; */
-  padding: 2% 2% 2%;
+  padding: 1% 1% 2%;
 
 }
 
@@ -202,7 +205,7 @@ button:hover {
 .column_22 {
   width: 70%;
   position: relative;
-  background-color: yellow;
+  /* background-color: yellow; */
   padding: 2% 2% 2%;
   font-size: 10px;
 }
