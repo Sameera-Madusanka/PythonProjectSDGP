@@ -4,13 +4,13 @@
     height: 100%;
     margin: auto;
     overflow: hidden;
-    font-weight:400;
+    font-weight: 400;
     padding: 4% 6% 10% 4%;
 
 
 }
 
-.column_1{
+.column_1 {
     width: 6%;
     height: 100%;
     position: relative;
@@ -44,7 +44,7 @@
     /* box-shadow: 3px 3px 5px rgba(0,0,0,0.5) ; */
     /* backdrop-filter: blur(5px); */
     position: relative;
-    
+
 }
 
 .query_title {
@@ -55,11 +55,15 @@
     text-transform: uppercase;
 }
 
-.query_title_text{
+.query_title_text {
     color: rgb(75, 75, 75);
 }
 
-.query_mail{
+.inquiry {
+    font-size: 18px;
+}
+
+.query_mail {
     font-size: 15px;
 }
 
@@ -70,12 +74,13 @@
     font-size: 18px;
 }
 
-.please_note{
+.please_note {
     color: red;
     font-size: 20px;
+    padding-top: 4%;
 }
 
-.input_feild{
+.input_feild {
     padding: 0 0 5%;
 }
 
@@ -109,7 +114,7 @@
     appearance: none;
     color: rgb(0, 0, 0);
     border: 1px solid rgb(102, 102, 102);
-    background: rgba(255,255,255,0.2);
+    background: rgba(255, 255, 255, 0.2);
     padding: 10px 5px;
     height: 100%;
     width: 100%;
@@ -136,57 +141,52 @@
 }
 
 /* submit Query Button */
+
+.btn {}
+
 .submit_btn {
-    width: 2opx;
-    padding: 8px 10px;
-    font-size: 12px;
+    width: 15%;
     font-weight: 600;
+    padding: 2% 2%;
+    font-size: 15px;
+    /* font-weight: 600; */
     border: 1px solid #fff;
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    padding: 12px 34px;
-    font-size: 13px;
-    background-color: #888383;
+    /* text-decoration: none; */
+    color: white;
+    /* padding: 12px 34px; */
+    background-color: red;
     cursor: pointer;
-    transition: 1s;
-    border-radius: 50px;
+    transition: 0.5s;
     position: relative;
-    left: 460px;
-    top: 5px;
     box-shadow: 0 10px 10px rgba(65, 47, 47, 0.5);
 }
 
 .submit_btn:hover {
-   border: 1px solid #ffffff;
-    background: #404040;
+    border: 1px solid #ffffff;
+    background: #484bea;
     color: white;
 }
 
 /* Reset Button */
 .reset_btn {
-    width: 2opx;
-    padding: 8px 10px;
-    font-size: 12px;
+    width: 15%;
     font-weight: 600;
-    border: 1px solid #fff;
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    padding: 12px 34px;
-    font-size: 13px;
-    background-color: #888383;
+    padding: 2% 2%;
+    font-size: 15px;
+    /* font-weight: 600; */
+    border: 1px solid white;
+    /* text-decoration: none; */
+    color: white;
+    /* padding: 12px 34px; */
+    background-color: rgb(50, 179, 244);
     cursor: pointer;
-    transition: 1s;
-    border-radius: 50px;
+    transition: 0.5s;
     position: relative;
-    left: 200px;
-    top: 5px;
     box-shadow: 0 10px 10px rgba(65, 47, 47, 0.5);
 }
 
 .reset_btn:hover {
-   border: 1px solid #ffffff;
+    border: 1px solid #b4b4b4;
     background: #404040;
     color: white;
 }
-
-

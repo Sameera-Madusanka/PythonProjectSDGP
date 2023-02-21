@@ -31,10 +31,10 @@ function validateForm() {
         alert ("Please enter a inquiry");
         return false;
     }
+
+
+let btnclear = document.querySelector('button')
+
     
   }
-
-  function submitForm() {
-    document.getElementsByName("form").reset();
-    }
 

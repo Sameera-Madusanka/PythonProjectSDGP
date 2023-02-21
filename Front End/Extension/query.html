@@ -21,20 +21,17 @@
     <div>
         <nav>
             <a href="Home.html"><img class="logo" src="../Extension/Images/fake_news_detector_pro.PNG" alt="logo"></a>
-            <!-- <h2 class="logo">Fake news Detector <span> Pro</span></h2> -->
             <ul>
                 <li><a href="Home.html">Home</a></li>
                 <li><a href="latest_news.html">Latest News</a></li>
                 <li><a href="top_stories.html">Top Stories</a></li>
                 <li><a href="#">About</a></li>
-                <li><a href="query.html">Contact Us</a></li>
+                <li><a href="query.html" class="active">Contact Us</a></li>
             </ul>
-
         </nav>
     </div>
 
     <div class="row_1">
-
         <div class="column_1">
         </div>
 
@@ -43,9 +40,10 @@
                 Get in touch
             </div>
             <div class="query_title_text">
-                <p>Have an inquiry or some feedback for us? fill out the form here to contact our team</p>
+                <p class="inquiry">Have an inquiry or some feedback for us? fill out the form here to contact our team
+                </p>
                 </br>
-                <p class="please_note"> Please note:</p><br>
+                <p class="please_note"> Note :</p><br>
                 We can respond much more quickly to enquiries via the customer form supplied here.
                 </p> <br>
                 <p>
@@ -71,17 +69,17 @@
                 <form name="form" action="mailto:ilsarakeminda@gmail.com" method="post" enctype="text/plain">
 
                     <div class="input_feild">
-                        <label for="name"> Name</label>
+                        <label for="name"> Name :</label>
                         <input type="text" class="form_input" name="First name" id="name">
                     </div>
 
                     <div class="input_feild">
-                        <label for="email">Email Address</label>
+                        <label for="email">Email Address :</label>
                         <input type="text" class="form_input" name="E mail" id="email">
                     </div>
 
                     <div class="input_feild">
-                        <label for="subject">What does your enquiry relate to?</label>
+                        <label for="subject">What does your inquiry relate to :</label>
                         <div class="subject_select">
                             <select name="Subject" id="subject">
                                 <option value="">Select</option>
@@ -95,12 +93,13 @@
                     </div>
 
                     <div class="input_feild">
-                        <label for="details">Details</label>
+                        <label for="details">Details :</label>
                         <textarea class="form_textarea" name="Details" id="details"></textarea>
                     </div>
-
-                    <button onclick="validateForm();" class="submit_btn" type="reset" id="view">Submit</button>
-                    <button class="reset_btn" type="reset" id="reset">Reset</button>
+                    <div class="btn">
+                        <button onclick="validateForm();" class="submit_btn" type="submit" id="view">Submit</button>
+                        <button class="reset_btn" type="reset" id="reset">Cancel</button>
+                    </div>
                 </form>
 
             </div>

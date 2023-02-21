@@ -11,7 +11,7 @@
  .news {
      font-size: 20px;
      text-align: justify;
-     text-justify: inter-word;
+     line-height: 27px;
  }
 
  .row_1,
