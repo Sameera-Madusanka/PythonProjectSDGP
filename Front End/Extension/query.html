@@ -8,9 +8,20 @@
     <link rel="icon" href="images/logo.PNG" type="image/icontype">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="../Extension/css/navbar_footer_response.css">
-    <link rel="stylesheet" href="./css/query.css">
+    <link rel="stylesheet" href="css/navbar_footer_response.css">
+    <link rel="stylesheet" href="css/query.css">
     <script src="./js/query.js"></script>
+
+<script src="js/query.js"> </script>
+
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+</script>
+<script type="text/javascript">
+   (function(){
+      emailjs.init("E-DjM8CWvDF2Qvn3O");
+   })();
+</script>
 
 
 </head>
@@ -66,16 +77,16 @@
         <div class="column_3">
             <div class="contact_us">
 
-                <form name="form" action="mailto:ilsarakeminda@gmail.com" method="post" enctype="text/plain">
+                <!-- <form name="form" action="mailto:ilsarakeminda@gmail.com" method="post" enctype="text/plain"> -->
 
                     <div class="input_feild">
                         <label for="name"> Name :</label>
-                        <input type="text" class="form_input" name="First name" id="name">
+                        <input type="text" class="form_input" name="First name" id="name" placeholder="Alex root">
                     </div>
 
                     <div class="input_feild">
                         <label for="email">Email Address :</label>
-                        <input type="text" class="form_input" name="E mail" id="email">
+                        <input type="text" class="form_input" name="E mail" id="email" placeholder="alex@gmail.com">
                     </div>
 
                     <div class="input_feild">
@@ -83,10 +94,10 @@
                         <div class="subject_select">
                             <select name="Subject" id="subject">
                                 <option value="">Select</option>
-                                <option value="booking">Genreal inquiries</option>
-                                <option value="locations">Legal inquiries</option>
-                                <option value="locations">Media inquiries</option>
-                                <option value="delivery">Feedback</option>
+                                <option value="Genreal inquiries">Genreal inquiries</option>
+                                <option value="Legal inquiries">Legal inquiries</option>
+                                <option value="Media inquiries">Media inquiries</option>
+                                <option value="Feedback">Feedback</option>
                                 <option value="Other">Other</option>
                             </select>
                         </div>
@@ -94,13 +105,13 @@
 
                     <div class="input_feild">
                         <label for="details">Details :</label>
-                        <textarea class="form_textarea" name="Details" id="details"></textarea>
+                        <textarea class="form_textarea" name="Details" id="details" placeholder="Explain your query"></textarea >
                     </div>
                     <div class="btn">
-                        <button onclick="validateForm();" class="submit_btn" type="submit" id="view">Submit</button>
-                        <button class="reset_btn" type="reset" id="reset">Cancel</button>
+                        <button class="submit_btn" type="submit" id="view" onclick="queryForm();">Submit</button>
+                      
                     </div>
-                </form>
+                <!-- </form> -->
 
             </div>
 
