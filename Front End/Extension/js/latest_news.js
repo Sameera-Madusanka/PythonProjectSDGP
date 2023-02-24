@@ -1,10 +1,15 @@
-function myFunction() {
-    var urls = ["file:///Users/ilsara/Desktop/SDGP/PythonProjectSDGP/Front%20End/Extension/News_Pages/Air%20India%20seals%20record%20order%20for%20almost%20500%20Airbus%20Boeing%20jets.html",
-        "file:///Users/ilsara/Desktop/SDGP/PythonProjectSDGP/Front%20End/Extension/News_Pages/As%20U.S.%20budget%20fight%20looms,%20Republicans%20flip%20their%20fiscal%20script.html",
-        "file:///Users/ilsara/Desktop/SDGP/PythonProjectSDGP/Front%20End/Extension/News_Pages/Ben%20Duckett%20will%20take%20every%20chance%20for%20England,%20while%20New%20Zealand%20overlook%20Trent%20Boult.html",
-    "file:///Users/ilsara/Desktop/SDGP/PythonProjectSDGP/Front%20End/Extension/News_Pages/China%20Xi%20calls%20for%20early%20resolution%20of%20Iran%20nuclear%20issue.html",
-"file:///Users/ilsara/Desktop/SDGP/PythonProjectSDGP/Front%20End/Extension/News_Pages/Court%20orders%20Trump%20administration%20to%20give%20immigrant%20teens%20abortion%20access.html",
-"file:///Users/ilsara/Desktop/SDGP/PythonProjectSDGP/Front%20End/Extension/News_Pages/Earthquake%20fans%20anti-Syrian%20sentiment%20in%20Turkey%20amid%20desperate%20conditions.html"];
+function randomLatestNews() {
+    var urls = ["News_Pages/Air India seals record order for almost 500 Airbus Boeing jets.html",
+        "News_Pages/As U.S. budget fight looms, Republicans flip their fiscal script.html",
+        "News_Pages/Ben Duckett will take every chance for England, while New Zealand overlook Trent Boult.html",
+        "News_Pages/China Xi calls for early resolution of Iran nuclear issue.html",
+        "News_Pages/Court orders Trump administration to give immigrant teens abortion access.html",
+        "News_Pages/Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html",
+        "News_Pages/FBI Russia probe helped by Australian diplomat tip.html",
+        "News_Pages/Ferrari reveal their 'Valentine as new car launched for 2023 Formula 1 championship challenge.html.html",
+        "News_Pages/Five migrants die when boat sinks.html",
+        "News_Pages/Indian forces kill militant leader's nephew in Kashmir, police say.html",
+    ];
 
     var randomIndex = Math.floor(Math.random() * urls.length);
     var randomUrl = urls[randomIndex];
