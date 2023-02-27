@@ -41,6 +41,7 @@ button:hover {
 .row_1 {
   display: flex;
   width: 50%;
+
   margin: auto;
   overflow: hidden;
   position: relative;
@@ -59,7 +60,8 @@ button:hover {
 .row_10,
 .row_11,
 .row_12,
-.row_13 {
+.row_13,
+.row_14 {
   display: flex;
   width: 100%;
   margin: auto;
@@ -84,6 +86,32 @@ button:hover {
   overflow: hidden;
   backdrop-filter: blur(1px);
 }*/
+
+
+.input_feild {
+  /* padding: 0 0 5%; */
+  width:100%;
+}
+
+.form_input {
+  width: 100%;
+  outline: none;
+  border: 1px solid rgb(102, 102, 102);
+  font-size: 15px;
+  padding: 8px 10px;
+  transition: all 1s ease;
+  background: rgba(189, 189, 189, 0.2);
+  color: black;
+}
+
+.row_14{
+  width: 50%;
+  position: relative;
+  /* background-color: yellow; */
+  padding: 2% 2% 2%;
+}
+
+
 
 .column_1 {
   width: 65%;
@@ -236,18 +264,11 @@ svg {
 }
 
 .column_25 {
-  width: 70%;
+  height: 100%;
+
   position: relative;
   background-color: green;
   padding: 2% 2% 2%;
 
 }
-
-.column_26 {
-  width: 30%;
-  position: relative;
-  background-color: yellow;
-  padding: 2% 2% 2%;
-}
-
 
