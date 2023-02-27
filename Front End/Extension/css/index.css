@@ -18,8 +18,12 @@ button:hover {
   padding: 2% 5% 2%;
 }
 
-.indicator {
+.extension_btn {
   text-decoration: none;
+}
+
+.submit_btn{
+  padding-top: 11%;
 }
 
 .top_news {
@@ -204,6 +208,7 @@ width: 100%;
   /* background-color: gray; */
   padding: 2% 2% 2%;
   object-fit: contain;
+  
 }
 
 .column_24 {
