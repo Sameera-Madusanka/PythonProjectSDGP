@@ -21,4 +21,10 @@ def fake_news_det(news):
     input_data = [news]
     vectorized_input_data = tfvect.transform(input_data)
     prediction = loaded_model.predict(vectorized_input_data)
-    return prediction
+    return
+@app.route('/')
+def home():
+    return render_template('\Front End\Extension\index.html')
+
+if __name__ == '__main__':
+    app.run(debug=True)
