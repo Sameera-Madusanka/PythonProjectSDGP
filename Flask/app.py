@@ -20,6 +20,9 @@ def about():
 def LNews():
     return render_template('latest_news.html')
 
+@app.route("/TStory")
+def TStory():
+    return render_template('top_stories.html')
 
 
 if __name__ == '__main__':
