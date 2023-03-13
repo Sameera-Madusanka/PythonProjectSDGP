@@ -81,7 +81,7 @@
 
         </div>
     </div>
-
+<!--
     <div class="row_15">
 
         <div class="input_feild">
@@ -89,13 +89,30 @@
             <input type="text" class="form_input" name="First name" id="name">
 
         </div>
-        <div class="clomn_25">
-            <div class="submit_btn">
-                <button class="submit_btn" type="submit" id="view" onclick="jspart();">Submit</button>
+ -->
+        <div class="login">
 
-            </div>
-        </div>
-    </div>
+
+    <form action="{{ url_for('predict')}}" method="POST">
+    	<textarea  name="message" rows="6" cols="50" required="required" style="font-size: 11pt"></textarea>
+		<br> </br>
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+
+        	<div class="results">
+
+	{% if prediction == ['FAKE']%}
+                <h2>This is Fake News </h2>
+	{% elif prediction == ['REAL']%}
+                <h2><b>This is Real News</b></h2>
+	{% endif %}
+
+	</div>
+
+    </form>
+
+</div>
+
+
 
 
     <div class="row_2 ">
