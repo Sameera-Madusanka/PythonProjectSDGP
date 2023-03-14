@@ -67,6 +67,12 @@ def news2Paris():
 @app.route('/news3Ferrari')
 def news3Ferrari():
     return render_template('Ferrari reveal their Valentine as new car launched for 2023 Formula 1 championship challenge.html')
+@app.route('/news4Six')
+def news4Six():
+    return render_template('Six Nations 2023 England Kyle Sinckler a doubt for Wales game due to facial injury.html')
+@app.route('/news5Earth')
+def news5Earth():
+    return render_template('Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
