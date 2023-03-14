@@ -6,7 +6,7 @@ function randomLatestNews() {
         "News_Pages/Court orders Trump administration to give immigrant teens abortion access.html",
         "News_Pages/Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html",
         "News_Pages/FBI Russia probe helped by Australian diplomat tip.html",
-        "News_Pages/Ferrari reveal their 'Valentine as new car launched for 2023 Formula 1 championship challenge.html.html",
+        "News_Pages/Ferrari reveal their Valentine as new car launched for 2023 Formula 1 championship challenge.html.html",
         "News_Pages/Five migrants die when boat sinks.html",
         "News_Pages/Indian forces kill militant leader's nephew in Kashmir, police say.html",
     ];

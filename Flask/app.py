@@ -55,5 +55,18 @@ def test():
     return render_template('query.html')
 
 
+
+@app.route('/news1India')
+def news1India():
+    return render_template('Air India seals record order for almost 500 Airbus Boeing jets.html')
+
+@app.route('/news2Paris')
+def news2Paris():
+    return render_template('Paris Olympics Ukrainian president Volodymyr Zelenskyy says no place for Russia at 2024 Games while invasion continues.html')
+
+@app.route('/news3Ferrari')
+def news3Ferrari():
+    return render_template('Ferrari reveal their Valentine as new car launched for 2023 Formula 1 championship challenge.html')
+
 if __name__ == '__main__':
     app.run(debug=True)
