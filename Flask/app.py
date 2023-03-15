@@ -74,5 +74,23 @@ def news4Six():
 def news5Earth():
     return render_template('Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html')
 
+@app.route('/news6Newz')
+def news6Newz():
+    return render_template('New Zealand declares national emergency as Cyclone Gabrielle wreaks havoc.html')
+
+@app.route('/news7Tesla')
+def news7Tesla():
+    return render_template('Tesla workers launch campaign to form union in New York.html')
+@app.route('/news8Ben')
+def news8Ben():
+    return render_template('Ben Duckett will take every chance for England, while New Zealand overlook Trent Boult.html')
+@app.route('/news9China')
+def news9China():
+    return render_template('China Xi calls for early resolution of Iran nuclear issue.html')
+@app.route('/news10Leb')
+def news10Leb():
+    return render_template('Lebanon PM under house arrest in Saudi Arabia.html')
+
+
 if __name__ == '__main__':
     app.run(debug=True)
