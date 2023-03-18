@@ -92,5 +92,6 @@ def news10Leb():
     return render_template('Lebanon PM under house arrest in Saudi Arabia.html')
 
 
+
 if __name__ == '__main__':
     app.run(debug=True)
