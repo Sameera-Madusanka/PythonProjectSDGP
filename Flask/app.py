@@ -91,6 +91,45 @@ def news9China():
 def news10Leb():
     return render_template('Lebanon PM under house arrest in Saudi Arabia.html')
 
+@app.route('/news11US')
+def news11US():
+    return render_template('As U.S. budget fight looms, Republicans flip their fiscal script.html')
+
+@app.route('/news12Court')
+def news12Court():
+    return render_template('Court orders Trump administration to give immigrant teens abortion access.html')
+
+@app.route('/news13FBI')
+def news13FBI():
+    return render_template('FBI Russia probe helped by Australian diplomat tip.html')
+
+@app.route('/news14Five')
+def news14Five():
+    return render_template('Five migrants die when boat sinks.html')
+
+@app.route('/news15Forces')
+def news15Forces():
+    return render_template('Indian forces kill militant leader s nephew in Kashmir.html')
+
+@app.route('/news16Instant')
+def news16Instant():
+    return render_template('Instant View House approves biggest tax overhaul in 30 years Indian forces kill militant leader s nephew in Kashmir.html')
+
+@app.route('/news17Reb')
+def news17Reb():
+    return render_template('Republicans seek to question FBI officials in Clinton probe.html')
+
+@app.route('/news18sec')
+def news18Sec():
+    return render_template('Second U.S. judge blocks Trump administration birth control rules.html')
+
+@app.route('/news19Trump')
+def news19Trump():
+    return render_template('Trump US has no choice but to deal with North Korea arms challenge.html')
+
+@app.route('/news20White')
+def news20White():
+    return render_template('White House says tax bill will not hurt Puerto Rico _ Reuters.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
