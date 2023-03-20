@@ -1,6 +1,6 @@
 import os
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request , send_file
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import PassiveAggressiveClassifier
 import pickle
@@ -37,6 +37,9 @@ def predict():
         return render_template('index.html', prediction="Something went wrong")
 
 
+@app.route('/download')
+def download():
+    return send_file('Fake_New_Detection_pro.rar', as_attachment = True)
 
 
 @app.route('/about')
