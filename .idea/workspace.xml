@@ -6,8 +6,28 @@
   <component name="ChangeListManager">
     <list default="true" id="daa7de1b-2fc7-44bc-9659-165632d7ef03" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Air India seals record order for almost 500 Airbus Boeing jets.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Air India seals record order for almost 500 Airbus Boeing jets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/As U.S. budget fight looms, Republicans flip their fiscal script.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/As U.S. budget fight looms, Republicans flip their fiscal script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Ben Duckett will take every chance for England, while New Zealand overlook Trent Boult.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Ben Duckett will take every chance for England, while New Zealand overlook Trent Boult.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/China Xi calls for early resolution of Iran nuclear issue.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/China Xi calls for early resolution of Iran nuclear issue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Court orders Trump administration to give immigrant teens abortion access.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Court orders Trump administration to give immigrant teens abortion access.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/FBI Russia probe helped by Australian diplomat tip.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/FBI Russia probe helped by Australian diplomat tip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Ferrari reveal their Valentine as new car launched for 2023 Formula 1 championship challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Ferrari reveal their Valentine as new car launched for 2023 Formula 1 championship challenge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Five migrants die when boat sinks.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Five migrants die when boat sinks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Indian forces kill militant leader s nephew in Kashmir, police say.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Indian forces kill militant leader s nephew in Kashmir, police say.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Instant View House approves biggest tax overhaul in 30 years Indian forces kill militant leader s nephew in Kashmir.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Instant View House approves biggest tax overhaul in 30 years Indian forces kill militant leader s nephew in Kashmir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Lebanon PM under house arrest in Saudi Arabia.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Lebanon PM under house arrest in Saudi Arabia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/New Zealand declares national emergency as Cyclone Gabrielle wreaks havoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/New Zealand declares national emergency as Cyclone Gabrielle wreaks havoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Paris Olympics Ukrainian president Volodymyr Zelenskyy says no place for Russia at 2024 Games while invasion continues.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Paris Olympics Ukrainian president Volodymyr Zelenskyy says no place for Russia at 2024 Games while invasion continues.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Republicans seek to question FBI officials in Clinton probe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Republicans seek to question FBI officials in Clinton probe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Second U.S. judge blocks Trump administration birth control rules.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Second U.S. judge blocks Trump administration birth control rules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Six Nations 2023 England Kyle Sinckler a doubt for Wales game due to facial injury.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Six Nations 2023 England Kyle Sinckler a doubt for Wales game due to facial injury.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Tesla workers launch campaign to form union in New York.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Tesla workers launch campaign to form union in New York.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/Trump US has no choice but to deal with North Korea arms challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/Trump US has no choice but to deal with North Korea arms challenge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/White House says tax bill will not hurt Puerto Rico _ Reuters.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/White House says tax bill will not hurt Puerto Rico _ Reuters.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/template/latest_news.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/latest_news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flask/template/query.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/query.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Flask/template/top_stories.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/top_stories.html" afterDir="false" />
     </list>
@@ -125,7 +145,7 @@
       <workItem from="1678876376436" duration="1075000" />
       <workItem from="1679251647956" duration="1402000" />
       <workItem from="1679287401621" duration="4422000" />
-      <workItem from="1679296142969" duration="3773000" />
+      <workItem from="1679296142969" duration="5367000" />
     </task>
     <servers />
   </component>
@@ -155,7 +175,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/manifest_json$app.coverage" NAME="app Coverage Results" MODIFIED="1679328036174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/manifest_json$app.coverage" NAME="app Coverage Results" MODIFIED="1679329225058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
     <SUITE FILE_PATH="coverage/app_py$app.coverage" NAME="app Coverage Results" MODIFIED="1679252406513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
     <SUITE FILE_PATH="coverage/Fake_news_detection_ipynb$app.coverage" NAME="app Coverage Results" MODIFIED="1678336902157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
     <SUITE FILE_PATH="coverage/Fake_news_detection_ipynb$FlaskFile.coverage" NAME="FlaskFile Coverage Results" MODIFIED="1678200613830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend Model2(Selected)/.ipynb_checkpoints" />
