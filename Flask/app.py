@@ -53,8 +53,8 @@ def LNews():
 def TStory():
     return render_template('top_stories.html')
 
-@app.route('/test')
-def test():
+@app.route('/query')
+def query():
     return render_template('query.html')
 
 
