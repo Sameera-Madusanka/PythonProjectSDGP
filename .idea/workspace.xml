@@ -4,85 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daa7de1b-2fc7-44bc-9659-165632d7ef03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Flask/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Air India seals record order for almost 500 Airbus Boeing jets.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/As U.S. budget fight looms, Republicans flip their fiscal script.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Ben Duckett will take every chance for England, while New Zealand overlook Trent Boult.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/China's Xi calls for early resolution of Iran nuclear issue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Court orders Trump administration to give immigrant teens abortion access.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/FBI Russia probe helped by Australian diplomat tip.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Ferrari reveal their 'Valentine' as new car launched for 2023 Formula 1 championship challenge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Five migrants die when boat sinks.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Ilsara.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Indian forces kill militant leader's nephew in Kashmir, police say.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Instant View House approves biggest tax overhaul in 30 years, Senate next.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Lebanon PM under house arrest in Saudi Arabia.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/New Zealand declares national emergency as Cyclone Gabrielle wreaks havoc.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Paris Olympics Ukrainian president Volodymyr Zelenskyy says no place for Russia at 2024 Games while invasion continues.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Republicans seek to question FBI officials in Clinton probe- letter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Sameera.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Savindi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Second U.S. judge blocks Trump administration birth control rules.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Six Nations 2023- England's Kyle Sinckler a doubt for Wales game due to facial injury.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Tesla workers launch campaign to form union in New York.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/Trump US has no choice but to deal with North Korea arms challenge.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/White House says tax bill will not hurt Puerto Rico _ Reuters.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/fake_news_detector_pro.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/Images/logo.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Air India seals record order for almost 500 Airbus Boeing jets.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/As U.S. budget fight looms, Republicans flip their fiscal script.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Ben Duckett will take every chance for England, while New Zealand overlook Trent Boult.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/China Xi calls for early resolution of Iran nuclear issue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Court orders Trump administration to give immigrant teens abortion access.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Earthquake fans anti-Syrian sentiment in Turkey amid desperate conditions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/FBI Russia probe helped by Australian diplomat tip.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Ferrari reveal their 'Valentine as new car launched for 2023 Formula 1 championship challenge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Five migrants die when boat sinks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Indian forces kill militant leader s nephew in Kashmir, police say.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Instant View House approves biggest tax overhaul in 30 years Indian forces kill militant leader's                 nephew in Kashmir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Lebanon PM under house arrest in Saudi Arabia.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/New Zealand declares national emergency as Cyclone Gabrielle wreaks havoc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Paris Olympics Ukrainian president Volodymyr Zelenskyy says no place for Russia at 2024 Games while invasion continues.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Republicans seek to question FBI officials in Clinton probe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Second U.S. judge blocks Trump administration birth control rules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Six Nations 2023 England Kyle Sinckler a doubt for Wales game due to facial injury.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Tesla workers launch campaign to form union in New York.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/Trump US has no choice but to deal with North Korea arms challenge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/News_Pages/White House says tax bill will not hurt Puerto Rico _ Reuters.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/about us.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/css/About_us.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/css/navbar_footer_response.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/css/news_pages.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/css/popup.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/css/query.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/js/latest_news.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/js/popup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/js/query.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/js/responsive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/js/top_stories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/latest_news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/popup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/query.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/share.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/share.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/Extension/top_stories.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front End/Extension/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Front End/Extension/popup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Front End/Extension/popup.html" afterDir="false" />
-    </list>
+    <list default="true" id="daa7de1b-2fc7-44bc-9659-165632d7ef03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +118,7 @@
       <workItem from="1678853964238" duration="130000" />
       <workItem from="1678876376436" duration="1075000" />
       <workItem from="1679251647956" duration="1402000" />
-      <workItem from="1679287401621" duration="2997000" />
+      <workItem from="1679287401621" duration="3623000" />
     </task>
     <servers />
   </component>
@@ -226,7 +148,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/manifest_json$app.coverage" NAME="app Coverage Results" MODIFIED="1679293790933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/manifest_json$app.coverage" NAME="app Coverage Results" MODIFIED="1679294374041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
     <SUITE FILE_PATH="coverage/app_py$app.coverage" NAME="app Coverage Results" MODIFIED="1679252406513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
     <SUITE FILE_PATH="coverage/Fake_news_detection_ipynb$app.coverage" NAME="app Coverage Results" MODIFIED="1678336902157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
     <SUITE FILE_PATH="coverage/Fake_news_detection_ipynb$FlaskFile.coverage" NAME="FlaskFile Coverage Results" MODIFIED="1678200613830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Backend Model2(Selected)/.ipynb_checkpoints" />
