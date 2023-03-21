@@ -112,7 +112,7 @@ def news14Five():
 
 @app.route('/news15Forces')
 def news15Forces():
-    return render_template('Indian forces kill militant leader s nephew in Kashmir.html')
+    return render_template('Indian forces kill militant leader s nephew in Kashmir, police say.html')
 
 @app.route('/news16Instant')
 def news16Instant():
