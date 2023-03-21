@@ -5,15 +5,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact Us | Fake News Detector Pro</title>
-    <link rel="icon" href="images/logo.PNG" type="image/icontype">
+    <link rel="icon" href="static/pics/icon.PNG" type="image/icontype">
     
 
     <!-- CSS -->
-    <link rel="stylesheet" href="css/navbar_footer_response.css">
-    <link rel="stylesheet" href="css/query.css">
-    <script src="./js/query.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/navbar_footer_response.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/query.css') }}">
 
-<script src="js/query.js"> </script>
+
+<script type="text/javascript" src="{{url_for('static',filename='js/query.js')}}"></script>
 
     <script type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
@@ -32,13 +32,13 @@
 
     <div>
         <nav>
-            <a href="Home.html"><img class="logo" src="../Extension/Images/fake_news_detector_pro.PNG" alt="logo"></a>
+            <a href="Home.html"><img class="logo" src="/static/pics/logo.PNG" alt="logo"></a>
             <ul>
-                <li><a href="Home.html">Home</a></li>
-                <li><a href="latest_news.html">Latest News</a></li>
-                <li><a href="top_stories.html">Top Stories</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="query.html" class="active">Contact Us</a></li>
+                <li><a href="{{url_for('home')}}" class="active">Home</a></li>
+                <li><a href="{{url_for('LNews')}}">Latest News</a></li>
+                <li><a href="{{url_for('TStory')}}">Top Stories</a></li>
+                <li><a href="{{url_for('about')}}">About</a></li>
+                <li><a href="{{url_for('query')}}">Contact Us</a></li>
             </ul>
         </nav>
     </div>

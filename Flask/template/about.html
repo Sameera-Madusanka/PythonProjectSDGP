@@ -20,11 +20,11 @@
         <a href="{{url_for('home')}}"><img class="logo" src="static/pics/logo.PNG" alt="logo"></a>
         <!-- <h2 class="logo">Fake news Detector <span> Pro</span></h2> -->
         <ul>
-            <li><a href="{{url_for('home')}}" >Home</a></li>
-            <li><a href="latest_news.html">Latest News</a></li>
-            <li><a href="top_stories.html">Top Stories</a></li>
-            <li><a href="{{url_for('about')}}" class="active">About</a></li>
-            <li><a href="query.html">Contact Us</a></li>
+            <li><a href="{{url_for('home')}}" class="active">Home</a></li>
+                <li><a href="{{url_for('LNews')}}">Latest News</a></li>
+                <li><a href="{{url_for('TStory')}}">Top Stories</a></li>
+                <li><a href="{{url_for('about')}}">About</a></li>
+                <li><a href="{{url_for('query')}}">Contact Us</a></li>
         </ul>
 
     </nav>
