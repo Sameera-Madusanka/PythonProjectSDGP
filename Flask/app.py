@@ -9,8 +9,8 @@ from sklearn.model_selection import train_test_split
 
 app = Flask(__name__,template_folder='template')
 tfvect = TfidfVectorizer(stop_words='english', max_df=0.7)
-loaded_model = pickle.load(open('Flask/model_01.pkl', 'rb'))
-dataframe = pd.read_csv('Flask/news_01.csv')
+loaded_model = pickle.load(open('model_01.pkl', 'rb'))
+dataframe = pd.read_csv('news_01.csv')
 x = dataframe['text']
 y = dataframe['label']
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=0)
