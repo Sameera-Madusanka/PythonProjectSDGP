@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa7de1b-2fc7-44bc-9659-165632d7ef03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProjectSDGP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProjectSDGP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/testing.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flask/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Sameera/Desktop/python projects/PythonProjectSDGP",
+    "last_opened_file_path": "C:/Users/Sameera/Desktop/python projects/flaskTest1",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,7 +76,7 @@
       <recent name="C:\Users\Sameera\Desktop\python projects\PythonProjectSDGP" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.testing">
     <configuration name="exten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProjectSDGP" />
       <option name="INTERPRETER_OPTIONS" value="" />
